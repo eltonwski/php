@@ -1,6 +1,6 @@
 <?php
 
-echo "Meu primeiro 2222codigo php";
+echo "Meu primeiro 2222sssssscodigo php";
 
 ?>
 
